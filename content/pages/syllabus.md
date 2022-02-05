@@ -26,46 +26,488 @@ Course Requirements and Grading
 
 There will be one mid-term exam and one second-half-term exam. There will also be a short patent-search project, with a written report and optional class presentation. In addition, there will be very short exercises based on the readings throughout the term. Components of students' final grades will be weighted as follows:
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Mid-term exam | 1/3 |
-| Second-half-term exam | 1/3 |
-| Patent-search project | 1/6 |
-| Short exercises and class participation | 1/6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second-half-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Patent-search project
+{{< tdclose >}}
+{{< tdopen >}}
+1/6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short exercises and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+1/6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**PART 1: Introduction**{{< /td-colspan >}} |||
-| 1 | Historical and philosophical background of patents and other intellectual property | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} The U.S. Patent System: the Constitution, Congress, Patent Office (PTO), and courts {{< br >}}{{< br >}} Analyzing and understanding judicial opinions {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**PART 2: Comparative overview of patents, copyrights, trade secrets, and trademarks**{{< /td-colspan >}} |||
-| 3 |  {{< br >}}{{< br >}} Legal fundamentals of patent protection for useful inventions {{< br >}}{{< br >}} Design and plant patents {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Legal fundamentals of copyright protection {{< br >}}{{< br >}} Similarity and access {{< br >}}{{< br >}} Expression vs. ideas and information, merger {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Fair use of copyrighted works (e.g., for classroom use) {{< br >}}{{< br >}} Contributory copyright infringement {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Critical differences between patent and copyright protection {{< br >}}{{< br >}} Copyright infringement distinguished from plagiarism {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Legal fundamentals of trade-secret protection | &nbsp; |
-| 8 | Legal fundamentals of trademark protection | &nbsp; |
-| {{< td-colspan 3 >}}**PART 3: Requirements and limitations of patentability**{{< /td-colspan >}} |||
-| 9 |  {{< br >}}{{< br >}} New and useful: {{< br >}}{{< br >}} (A) The legal requirement of novelty {{< br >}}{{< br >}} (B) First to invent vs. first inventor to file {{< br >}}{{< br >}}  | [Short exercise 1 due]({{< baseurl >}}/pages/assignments#si1) |
-| 10 | The legal requirement of non-obviousness | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Statutory subject matter and judicial exceptions: {{< br >}}{{< br >}} (A) Patentability of algorithms, software, and business methods {{< br >}}{{< br >}}  | [Short exercise 2 due]({{< baseurl >}}/pages/assignments#si2) |
-| 12 |  {{< br >}}{{< br >}} Statutory subject matter and judicial exceptions: {{< br >}}{{< br >}} (B) Patentability of medical treatments and human genes | &nbsp; |
-| {{< td-colspan 3 >}}Midterm exam{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**PART 4: The process of applying for a patent ("patent prosecution")**{{< /td-colspan >}} |||
-| 13 |  {{< br >}}{{< br >}} Anatomy of a patent application {{< br >}}{{< br >}} Adequate disclosure {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | The art of drafting patent claims | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Patent searching: {{< br >}}{{< br >}} (A) Purposes and techniques {{< br >}}{{< br >}}  | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Patent searching: {{< br >}}{{< br >}} (B) On-line tools available to MIT students {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**PART 5: Actions for patent infringement**{{< /td-colspan >}} |||
-| 17 |  {{< br >}}{{< br >}} Interpretation of claims {{< br >}}{{< br >}} Doctrine of equivalents {{< br >}}{{< br >}} Product testing as a possibly infringing use {{< br >}}{{< br >}} Doctrine of exhaustion {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Legal and equitable remedies for infringement | [Short exercise 3 due]({{< baseurl >}}/pages/assignments#si3) |
-| 19 | Anatomy of patent litigation | &nbsp; |
-| 20 | Courtroom visit to current patent trial: [Federal Courthouse, Boston](http://www.mad.uscourts.gov) | &nbsp; |
-| {{< td-colspan 3 >}}**PART 6: Other important issues**{{< /td-colspan >}} |||
-| 21 | Student presentations of patent-search results | [Patent-search report due]({{< baseurl >}}/pages/assignments#psa) |
-| 22 |  {{< br >}}{{< br >}} (A) Patent licensing {{< br >}}{{< br >}} (B) Non-competition agreements {{< br >}}{{< br >}}  | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Rights and obligations among co-inventors, co-authors, employers, and licensees {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}Second-half term exam{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 1: Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Historical and philosophical background of patents and other intellectual property
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The U.S. Patent System: the Constitution, Congress, Patent Office (PTO), and courts
+
+Analyzing and understanding judicial opinions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 2: Comparative overview of patents, copyrights, trade secrets, and trademarks**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Legal fundamentals of patent protection for useful inventions
+
+Design and plant patents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Legal fundamentals of copyright protection
+
+Similarity and access
+
+Expression vs. ideas and information, merger
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fair use of copyrighted works (e.g., for classroom use)
+
+Contributory copyright infringement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Critical differences between patent and copyright protection
+
+Copyright infringement distinguished from plagiarism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Legal fundamentals of trade-secret protection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Legal fundamentals of trademark protection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 3: Requirements and limitations of patentability**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+New and useful:
+
+(A) The legal requirement of novelty
+
+(B) First to invent vs. first inventor to file
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Short exercise 1 due]({{< baseurl >}}/pages/assignments#si1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The legal requirement of non-obviousness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Statutory subject matter and judicial exceptions:
+
+(A) Patentability of algorithms, software, and business methods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Short exercise 2 due]({{< baseurl >}}/pages/assignments#si2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Statutory subject matter and judicial exceptions:
+
+(B) Patentability of medical treatments and human genes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 4: The process of applying for a patent ("patent prosecution")**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anatomy of a patent application
+
+Adequate disclosure
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The art of drafting patent claims
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Patent searching:
+
+(A) Purposes and techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Patent searching:
+
+(B) On-line tools available to MIT students
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 5: Actions for patent infringement**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interpretation of claims
+
+Doctrine of equivalents
+
+Product testing as a possibly infringing use
+
+Doctrine of exhaustion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Legal and equitable remedies for infringement
+{{< tdclose >}}
+{{< tdopen >}}
+[Short exercise 3 due]({{< baseurl >}}/pages/assignments#si3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Anatomy of patent litigation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Courtroom visit to current patent trial: [Federal Courthouse, Boston](http://www.mad.uscourts.gov)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART 6: Other important issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of patent-search results
+{{< tdclose >}}
+{{< tdopen >}}
+[Patent-search report due]({{< baseurl >}}/pages/assignments#psa)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(A) Patent licensing
+
+(B) Non-competition agreements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rights and obligations among co-inventors, co-authors, employers, and licensees
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Second-half term exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
