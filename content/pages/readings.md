@@ -64,7 +64,7 @@ Analyzing and understanding judicial opinions
 
 [U.S. Constitution, Article, 1 Sec. 8 (PDF)]({{< baseurl >}}/resources/mit15_628js13_read02)
 
-[Excerpts from U.S. Government Manual (PDF)]({{< baseurl >}}/resources/mit15_628js13_read03), 2011, and from "Court Systems of the United States." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Federal Courts and What They Do_ (PDF)](https://www.fjc.gov/education/inside-federal-courts). Federal Judicial Center (FJC), n.d.
+[Excerpts from U.S. Government Manual (PDF)]({{< baseurl >}}/resources/mit15_628js13_read03), 2011, and from "Court Systems of the United States." [_Federal Courts and What They Do_ (PDF)](https://www.fjc.gov/education/inside-federal-courts). Federal Judicial Center (FJC), n.d.
 
 ["Sample Patent" (PDF)]({{< baseurl >}}/resources/mit15_628js13_read04) for use with the following video:
 
@@ -345,7 +345,7 @@ Adequate disclosure
 
 [37 C.F.R. §§ 1.71-1.77 (Patents, trademarks, copyrights) (PDF)]({{< baseurl >}}/resources/mit15_628js13_read30)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[U.S. Patent No. 4,408,919 (PDF)]({{< baseurl >}}/resources/mit15_628js13_read31)
+[U.S. Patent No. 4,408,919 (PDF)]({{< baseurl >}}/resources/mit15_628js13_read31)
 
 
 {{< tdclose >}}
@@ -469,7 +469,7 @@ Legal and equitable remedies for infringement
 Anatomy of patent litigation
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[U.S. Patent No. 7, 314, 044 "Marine Emissions Control" (PDF)]({{< baseurl >}}/resources/mit15_628js13_read39)
+[U.S. Patent No. 7, 314, 044 "Marine Emissions Control" (PDF)]({{< baseurl >}}/resources/mit15_628js13_read39)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -538,7 +538,7 @@ Rights and obligations among co-inventors, co-authors, employers, and licensees
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sample agreement documents (PDF)]({{< baseurl >}}/resources/mit15_628js13_read40)
+[Sample agreement documents (PDF)]({{< baseurl >}}/resources/mit15_628js13_read40)
 
 
 {{< tdclose >}}
